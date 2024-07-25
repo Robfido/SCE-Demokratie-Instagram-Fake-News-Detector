@@ -1,0 +1,17 @@
+{
+    "name":"Instagram Fake News Warner",
+    "version":"0.1",
+    "description":"Add a validity tag to Instagram content",
+    "permissions": ["storage", "tabs"],
+    "manifest_version": 3,
+    "action": {
+        "default_popup": "popup.html"
+    },
+    "content_scripts":[
+        {
+            "matches":["https://www.instagram.com/*"],
+            "js":["content.js"],
+            "run_at":"document_end"
+        }
+    ]
+}
