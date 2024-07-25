@@ -12,5 +12,5 @@
 
 ![Richtiger_Ordner_zip](https://github.com/user-attachments/assets/2873b22c-1d0e-44ac-8062-cb41b8902311)
 
-### Danach kann man den Browser Google Chrome öffnen und die schritte in diesem Video befolgen: https://youtu.be/0n809nd4Zu4?si=XDIicuw88BJGCZMD&t=266
+### Danach kann man den Browser Google Chrome öffnen und die schritte in diesem Video befolgen: https://youtu.be/0n809nd4Zu4?si=XDIicuw88BJGCZMD&t=266 Hier muss nicht wie bei ihm "YoutubeBookmarks" sondern wie oben erwähnt "SFX Insta" ausgewählt werden. Wenn man das Plugin oben rechts auf dem Puzzleteil anpinnen kann, funktioniert es!
 
