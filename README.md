@@ -1,6 +1,6 @@
 # SCE-Demokratie-Instagram-Fake-News-Detector
 ## Hier ist der Funktionierende Portotyp von unserem Chrome plugin.
-### Um das plugin zu installieren muss man zuerst das reposirory als zip file runterladen
+### Um das plugin zu installieren muss man zuerst das repositrory als zip file runterladen
 
 ![Download_zip](https://github.com/user-attachments/assets/7bdca868-8eb2-41fe-8aab-1baadc9e0f59)
 
