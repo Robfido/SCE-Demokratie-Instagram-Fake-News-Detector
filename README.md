@@ -4,7 +4,7 @@
 
 ![Download_zip](https://github.com/user-attachments/assets/7bdca868-8eb2-41fe-8aab-1baadc9e0f59)
 
-### und im anschluss entpacken.
+### und im Anschluss entpacken.
 
 ![Unpack_zip](https://github.com/user-attachments/assets/2dbdb76d-4be7-4569-8c0f-2cace0de943a)
 
